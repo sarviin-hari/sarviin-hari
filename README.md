@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi there, I am Sarviin a/l Hari 👋
 
 <!--
 **sarviin-hari/sarviin-hari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍💻 Third-Year Computer Science Student at Monash University Malaysia
+- 📚 Passionate about leveraging my skills in programming, machine learning, and app development to work on innovative tech projects.
+- 🌟 My hands-on research in digital watermarking and leadership roles in tech clubs showcase my drive to learn and contribute to a dynamic tech environment.
+- 🔍 Seeking an internship opportunity from 19th November 2024 onwards for 3 months to apply my knowledge and grow professionally.
+- 📫 You can reach out to me at my [email](mailto:shar0101@student.monash.edu?subject=Hello%20From%20GitHub!) for any questions, collaboration, or just to connect!
